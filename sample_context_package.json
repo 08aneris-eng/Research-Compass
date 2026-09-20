@@ -1,0 +1,465 @@
+[
+    {
+        "lab_name": "Lab 1",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "robotics",
+            "ai",
+            "autonomous systems",
+            "natural language processing",
+            "language grounding to vision and robotics",
+            "interactive task learning"
+        ],
+
+        "skills": [
+            "python",
+            "natural language processing",
+            "machine learning",
+            "ros"
+        ],
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab2",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab website",
+
+        "research_areas": [
+            "multi-agent systems",
+            "ai",
+            "machine learning",
+            "human-AI collaboration",
+            "social impact"
+        ],
+
+        "skills": [
+            "python",
+            "machine learning",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 3",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "hci",
+            "ai",
+            "machine learning",
+            "human-centered AI",
+            "accessibility",
+            "healthcare"
+        ],
+
+        "skills": [
+            "python",
+            "machine learning",
+            "ai",
+            "ai researchers",
+            "hci researchers"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 4",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "graph mining",
+            "graph machine learning",
+            "data mining", 
+            "graph neural networks",
+            "large-scale data analysis", 
+            "network similarity", 
+            "network alignment", 
+            "mining time-evolving and streaming data"
+        ],
+
+        "skills": [
+            "python",
+            "machine learning",
+            "ai",
+            "neural networks",
+            "graph theory",
+            "machine learing libraries",
+            "graph libraries",
+            "data mining",
+            "neuroscience basics"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 5",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "deep learning",
+            "unsupervised feature learning",
+            "semi-supervised learning",
+            "transfer learning",
+            "graphical models",
+            "optimization",
+            "large-scale learning"
+        ],
+
+        "skills": [
+            "linear algebra",
+            "python",
+            "machine learning",
+            "ai",
+            "probability and statistics",
+            "computer vision",
+            "natural language processing"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 6",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "human-computer interaction",
+            "explainable ai",
+            "responsible ai"
+        ],
+
+        "skills": [
+            "trustworthy ai",
+            "python",
+            "prompt engineering",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 7",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "multi-agent systems",
+            "computational economics",
+            "algorithmic game theory and mechanism design",
+            "fair allocation",
+            "collective forecasting"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "game theory",
+            "machine learning",
+            "fair division",
+            "microeconomics",
+            "algorithm design",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 8",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "natural language processing",
+            "generative ai",
+            "computational social science",
+            "crowdsourcing"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "natural language processing",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 9",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "goals and rewards for intelligent agents",
+            "reinforcement learning",
+            "language model based agents",
+            "align, steer, and evaluate multi-principal agents"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "reinforcement learning",
+            "language models",
+            "ai"
+        ],
+
+        "description": "Lab description"
+
+    },
+
+    {
+      "lab_name": "Lab 10",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "formal reasoning",
+            "neuro-symbolic systems",
+            "reinforcement learning",
+            "large language models",
+            "discovery systems",
+            "open-ended learning"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "reinforcement learning",
+            "large language models",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+       "lab_name": "Lab 11",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "computer systems security",
+            "security and privacy of machine learning models",
+            "trustworthy AI",
+            "trustworthy computing infrastructures",
+            "designing efficient and scalable systems"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "computer system security",
+            "machine learning",
+            "trustworthy AI",
+            "efficient and scalable systems",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 12",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "reinforcement learning",
+            "machine learning",
+            "computational game theory",
+            "adaptive human-computer interaction"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "machine learning",
+            "reinforcement learning",
+            "computational game theory",
+            "adaptive human-computer interaction",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 13",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "machine learning",
+            "multi-agent systems",
+            "computational epidemiology",
+            "public health"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "machine learning",
+            "public health basics",
+            "computational epidemiology",
+            "epidemiology basics",
+            "multi-agent systems",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 14",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "electronic commerce"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "machine learning",
+            "computer vision",
+            "natural language processing",
+            "consumer behavior",
+            "supply chain logic",
+            "platform economics",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 15",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "human-computer interaction",
+            "human-ai interaction",
+            "accessibility",
+            "augmented reality"
+        ],
+
+        "skills": [
+            "probability and statistics",
+            "python",
+            "machine learning",
+            "ai"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 16",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "human-robot interaction",
+            "exploration of methods that enable robots to learn human skills",
+            "robotics"
+        ],
+
+        "skills": [
+            "deep learning",
+            "robot control and kinematics",
+            "machine learning",
+            "python",
+            "c++",
+            "robot operating system (ROS)",
+            "natural language processing"
+        ],
+
+        "description": "Lab description"
+    },
+
+    {
+        "lab_name": "Lab 17",
+
+        "professor": "Jane Doe",
+
+        "website": "Lab wesite",
+
+        "research_areas": [
+            "ai",
+            "cross-layer systems architectures for emerging applications, datacenter and warehouse-scale computer architecture, and hardware / software co-design"
+        ],
+
+        "skills": [
+            "computer architecture",
+            "hardware/software co-design",
+            "machine learning",
+            "python",
+            "c++",
+            "datacenter knowledge"
+        ],
+
+        "description": "Lab description"
+    }
+]
